@@ -43,7 +43,7 @@ window.onload = () => {
         'background', 'linear-gradient(#fffffff1, #fffffff1),url(/Assets/circlePatterns.svg) no-repeat top/cover'
       )
     }
-  }, 500) //should be 3000
+  }, 1200) //should be 3000
 
   //setting footer's year
   $('#year').text(year);
